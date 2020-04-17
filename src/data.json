@@ -13,8 +13,8 @@
     "user": {
       "image": "https://i.imgur.com/BQluPjM.png",
       "quote": "WE'RE DA BEST.",
-      "intro": "The God and ultimate carry. Say the four sacred words and he will rise.",
-      "moments": ["Perfected art of changing models", "Master of anime", "Still prime suspect for turning everyone into dragons"]
+      "intro": "The God, ultimate carry and master of anime. Say the four sacred words and he will rise.",
+      "moments": ["Perfected art of changing models", "Still prime suspect for turning everyone into dragons"]
       }
     },
     {
@@ -22,6 +22,7 @@
       "class": "FUCK",
       "tier": "D",
       "anime": "0",
+      "gay": "5",
       "cummie": "1",
       "ontime": "3",
       "afk": "1",
@@ -30,9 +31,27 @@
       "user": {
         "image": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/twitter/236/face-with-pleading-eyes_1f97a.png",
         "quote": "...oh boy",
-        "intro": "Short intro asfdsafd. 1 to 2 sentences",
-        "moments": ["moment 1 about sadfsfd / your character", "moment 2", "safdsdalfhksahfd"]
+        "intro": "Sits in the back and life taps self to death. Applies a lot of DOTs though...",
+        "moments": ["There was that one time that i-.... wait no that wasnt me", "https://exhentai.org/g/1078230/af8bcf3cb4/"]
         }
-      }
+      },
+        {
+          "name": "THE CLAIMER",
+          "class": "CUMBRAIN",
+          "tier": "C",
+          "anime": "4",
+          "gay": "5",
+          "cummie": "5",
+          "ontime": "9999",
+          "afk": "3",
+          "chaos": "5",
+          "retard": "5",
+          "user": {
+            "image": "https://media.discordapp.net/attachments/281544740204445696/700566781647126528/coomer_avatar.jpg",
+            "quote": "cunny???????????",
+            "intro": "A reliable cummie that survives raids through the power of cunny alone.  Requires a constant stream of porn in order to maintain his orb, but ultimately succumbs to rot if the raid goes on for too long.",
+            "moments": ["Runs into battle without notice"]
+            }
+          }
     
 ]

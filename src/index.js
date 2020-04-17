@@ -6,8 +6,6 @@ import './css/styles.css';
 
 import data from './data.json';
 
-console.log(foo);
-
 var music = new Audio('src/media/music.mp3');
 var select = new Audio('src/media/select.mp3'); 
 music.addEventListener('ended', function() {
@@ -104,7 +102,7 @@ class CharacterDisplay extends React.Component {
                 <p>CLASS : {data.class}</p>
               <p>{data.user.intro}</p>
               <br></br>
-              <p>MOMENTS:</p>
+              <p>MOMENTS</p>
               <ul>
               {data.user.moments.map(function(e, index){
                 return (
@@ -150,13 +148,3 @@ class CharacterSelection extends React.Component {
 
 
 export {App};
-
-// "WE'RE DA BEST."
-
-// THE GOD AND ULTIMATE CARRY. SAY THE FOUR SACRED WORDS AND HE WILL RISE.
-
-
-// MOMENTS:
-
-// Perfected art of changing models
-// Still prime suspect for changing everyone's model into giant dragons that one time
