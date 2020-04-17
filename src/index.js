@@ -99,7 +99,7 @@ class CharacterDisplay extends React.Component {
               <p className="title">INFO</p>
                 <img className="is-primary" id="player-icon" src={data.user.image}></img>
                 <p><i>"{data.user.quote}"</i></p>
-                <p>CLASS : {data.class}</p>
+                <p>RACE : {data.class}</p>
               <p>{data.user.intro}</p>
               <br></br>
               <p>MOMENTS</p>

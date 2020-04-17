@@ -1,6 +1,6 @@
 [
   {
-    "name": "SAVIOR",
+    "name": "SAVIOUR",
     "class": "DIVINE",
     "tier": "SS",
     "anime": "9999",
@@ -12,14 +12,14 @@
     "retard": "1",
     "user": {
       "image": "https://i.imgur.com/BQluPjM.png",
-      "quote": "WE'RE DA BEST.",
+      "quote": "I **LOVE** anime",
       "intro": "The God, ultimate carry and master of anime. Say the four sacred words and he will rise.",
       "moments": ["Perfected art of changing models", "Still prime suspect for turning everyone into dragons"]
       }
     },
     {
       "name": "THE FUCK",
-      "class": "FUCK",
+      "class": "FUCKIAN",
       "tier": "D",
       "anime": "0",
       "gay": "5",
@@ -52,6 +52,24 @@
             "intro": "A reliable cummie that survives raids through the power of cunny alone.  Requires a constant stream of porn in order to maintain his orb, but ultimately succumbs to rot if the raid goes on for too long.",
             "moments": ["Runs into battle without notice"]
             }
-          }
+          },
+          {
+            "name": "JAV KING",
+            "class": "BLESSED",
+            "tier": "S",
+            "anime": "4",
+            "gay": "4",
+            "cummie": "5",
+            "ontime": "3",
+            "afk": "0",
+            "chaos": "2",
+            "retard": "1",
+            "user": {
+              "image": "https://cdn.discordapp.com/attachments/171733265214865408/700635873913339954/unknown.png",
+              "quote": "targets boss .npc say 'anyone here like anime'",
+              "intro": "Holder of the legendary JAV code librams and JAV-VISION pioneer. Son of the Saviour.",
+              "moments": ["Abuses godly powers to possess his allies and make them gay", "Constantly dealing 69 damage exactly"]
+              }
+            }
     
 ]
