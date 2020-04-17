@@ -17,59 +17,95 @@
       "moments": ["Perfected art of changing models", "Still prime suspect for turning everyone into dragons"]
       }
     },
+  {
+    "name": "FUCK",
+    "class": "FUCKIAN",
+    "tier": "D",
+    "anime": "0",
+    "gay": "5",
+    "cummie": "1",
+    "ontime": "3",
+    "afk": "1",
+    "chaos": "1",
+    "retard": "1",
+    "user": {
+      "image": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/twitter/236/face-with-pleading-eyes_1f97a.png",
+      "quote": "...oh boy",
+      "intro": "Sits in the back and life taps self to death. Applies a lot of DOTs though...",
+      "moments": ["There was that one time that i-.... wait no that wasnt me", "https://exhentai.org/g/1078230/af8bcf3cb4/"]
+      }
+    },
+  {
+    "name": "THE CLAIMER",
+    "class": "CUMBRAIN",
+    "tier": "C",
+    "anime": "4",
+    "gay": "5",
+    "cummie": "5",
+    "ontime": "9999",
+    "afk": "3",
+    "chaos": "5",
+    "retard": "5",
+    "user": {
+      "image": "https://media.discordapp.net/attachments/281544740204445696/700566781647126528/coomer_avatar.jpg",
+      "quote": "cunny???????????",
+      "intro": "A reliable cummie that survives raids through the power of cunny alone.  Requires a constant stream of porn in order to maintain his orb, but ultimately succumbs to rot if the raid goes on for too long.",
+      "moments": ["Runs into battle without notice"]
+      }
+    },
+  {
+    "name": "JAV KING",
+    "class": "BLESSED",
+    "tier": "S",
+    "anime": "4",
+    "gay": "4",
+    "cummie": "5",
+    "ontime": "3",
+    "afk": "0",
+    "chaos": "2",
+    "retard": "1",
+    "user": {
+      "image": "https://cdn.discordapp.com/attachments/171733265214865408/700635873913339954/unknown.png",
+      "quote": "targets boss .npc say 'anyone here like anime'",
+      "intro": "Holder of the legendary JAV code librams and JAV-VISION pioneer. Son of the Saviour.",
+      "moments": ["Abuses godly powers to possess his allies and make them gay", "Constantly dealing 69 damage exactly"]
+      }
+    },
     {
-      "name": "THE FUCK",
-      "class": "FUCKIAN",
-      "tier": "D",
-      "anime": "0",
-      "gay": "5",
-      "cummie": "1",
-      "ontime": "3",
-      "afk": "1",
-      "chaos": "1",
-      "retard": "1",
+      "name": "TRACKPAD WARRIOR",
+      "class": "FURRY",
+      "tier": "C",
+      "anime": "2",
+      "gay": "2",
+      "cummie": "2",
+      "ontime": "5",
+      "afk": "2",
+      "chaos": "2",
+      "retard": "3",
       "user": {
-        "image": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/twitter/236/face-with-pleading-eyes_1f97a.png",
-        "quote": "...oh boy",
-        "intro": "Sits in the back and life taps self to death. Applies a lot of DOTs though...",
-        "moments": ["There was that one time that i-.... wait no that wasnt me", "https://exhentai.org/g/1078230/af8bcf3cb4/"]
+        "image": "https://i.imgur.com/UsDpbM8.jpg",
+        "quote": "its hard to click on my touchpad",
+        "intro": "Ladies and gentlemen, in the top left corner, weighing in at a beastly 225 kilograms, the three-time defending champion... give it up for YA BOI",
+        "moments": ["Running backwards in bossfights", "Bathing in slime"]
         }
       },
-        {
-          "name": "THE CLAIMER",
-          "class": "CUMBRAIN",
-          "tier": "C",
-          "anime": "4",
-          "gay": "5",
-          "cummie": "5",
-          "ontime": "9999",
-          "afk": "3",
-          "chaos": "5",
-          "retard": "5",
-          "user": {
-            "image": "https://media.discordapp.net/attachments/281544740204445696/700566781647126528/coomer_avatar.jpg",
-            "quote": "cunny???????????",
-            "intro": "A reliable cummie that survives raids through the power of cunny alone.  Requires a constant stream of porn in order to maintain his orb, but ultimately succumbs to rot if the raid goes on for too long.",
-            "moments": ["Runs into battle without notice"]
-            }
-          },
-          {
-            "name": "JAV KING",
-            "class": "BLESSED",
-            "tier": "S",
-            "anime": "4",
-            "gay": "4",
-            "cummie": "5",
-            "ontime": "3",
-            "afk": "0",
-            "chaos": "2",
-            "retard": "1",
-            "user": {
-              "image": "https://cdn.discordapp.com/attachments/171733265214865408/700635873913339954/unknown.png",
-              "quote": "targets boss .npc say 'anyone here like anime'",
-              "intro": "Holder of the legendary JAV code librams and JAV-VISION pioneer. Son of the Saviour.",
-              "moments": ["Abuses godly powers to possess his allies and make them gay", "Constantly dealing 69 damage exactly"]
-              }
-            }
-    
+    {
+      "name": "SPECIAL NEEDS COUNSELOR",
+      "class": "OMNIPOTENT",
+      "tier": "S",
+      "anime": "5",
+      "gay": "2",
+      "cummie": "5",
+      "ontime": "5",
+      "afk": "0",
+      "chaos": "1",
+      "retard": "2",
+      "user": {
+        "image": "https://i.imgur.com/pQvuowK.png",
+        "quote": "ok everyone buff. eat fishie. waiting on cafe. ok go... fuck. fuck it, wipe. ok everyone buff (x5)",
+        "intro": "Tolerant counselor who attempts to keep all the special needs kids focussed. Voice is always drowned out over the volume of the bot and posting cunny.",
+        "moments": ["Pioneer of The Pit", "Created the known Universe"]
+        }
+      }
+
 ]
