@@ -6,6 +6,8 @@ import './css/styles.css';
 
 import data from './data.json';
 
+console.log(foo);
+
 var music = new Audio('src/media/music.mp3');
 var select = new Audio('src/media/select.mp3'); 
 music.addEventListener('ended', function() {
